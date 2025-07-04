@@ -1,4 +1,19 @@
 body {
     background-color: black;
     color: goldenrod;
+    font-family: "Edu VIC WA NT Hand", cursive;
+}
+
+header{
+     font-family: "Manufacturing Consent", system-ui;
+     font-size:60px;
+     border-bottom: double 5px yellow;
+     padding: 50px;
+     text-align: center;
+}
+h1{
+    font-size:30px;
+}
+p{
+    font-size: 20px;
 }
